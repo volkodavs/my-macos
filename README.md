@@ -22,6 +22,7 @@
 *  [Postman](https://www.getpostman.com/)
 *  [JD-GUI](http://jd.benow.ca/)
 *  [Dbeaver](https://dbeaver.com/)
+*  [FileZilla](https://filezilla-project.org/)
 
 
 Inspired by [malexer/my-macos](https://github.com/malexer/my-macos)
